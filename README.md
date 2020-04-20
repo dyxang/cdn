@@ -49,7 +49,7 @@
 
 [Work_crawler](https://github.com/kanasimi/work_crawler)
 
-## Kindle 小说计划
+## Kindle 计划
 都是可以直接下载，拖到 calibre 就行 
 
 * 腾讯微云链接 [https://share.weiyun.com/5Jqlw6k](https://share.weiyun.com/5Jqlw6k)
