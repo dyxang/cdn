@@ -1,0 +1,32 @@
+<div id="talkmoe"></div>
+<script type="text/javascript">
+loadComments();
+function loadComments() {
+  if (typeof Valine === 'undefined') {
+    var getScript = (options) => {
+      var script = document.createElement('script');
+      script.defer = true;
+      script.crossOrigin = 'anonymous';
+      Object.keys(options).forEach((key) => {
+          script[key] = options[key];
+      });
+      document.body.appendChild(script);
+    };
+    getScript({
+      src: 'https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js',
+      onload: () => {
+        newValine();
+      }
+    });
+  } else {
+    newValine();
+  }
+}
+function newValine() {
+  new Valine({
+      el: '#talkmoe',
+      appId: '<API_ID>',
+      appKey: '<API_Key>'
+  });
+}
+</script>
