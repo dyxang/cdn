@@ -1,6 +1,6 @@
 # 找资源不完全指北
 > __Note__: 若有问题或好的方法欢迎进群反馈
->>- 4.20 大面积改动使排版更加合理、小白看得懂，同时改动网址使访问更快 
+>>- 4.20 大改使排版合理、小白看得懂，同时换服务使访问更快 
 >>- 4.14 增加网址volmoe
 
 <iframe width="100%" οnlοad="this.height=iFrame1.document.body.scrollHeight" frameborder="0" src="st.html"></iframe>
