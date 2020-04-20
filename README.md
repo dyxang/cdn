@@ -4,8 +4,6 @@
 >>- 4.20 大面积改动使排版更加合理、小白看得懂，同时改动网址使访问更快 
 >>- 4.14 增加网址volmoe
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">本站总访问量130+<span id="busuanzi_value_site_pv"></span>次</span>
-
  ## 提问之前
 *    贴吧 
 *   各大搜索引擎
