@@ -991,4 +991,23 @@ td {
       body {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
-    
+    @font-face {
+  font-family: 'swapfont';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_e2pgp3pykdl.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_e2pgp3pykdl.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_e2pgp3pykdl.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_e2pgp3pykdl.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_e2pgp3pykdl.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_e2pgp3pykdl.svg#杨任东竹石体-Bold') format('svg'); /* iOS 4.1- */
+}
+/**
+ * 添加阿里云网络字体
+ */
+.swap-font{
+    font-family:"swapfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
