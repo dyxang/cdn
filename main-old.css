@@ -341,7 +341,7 @@ td {
   max-width: 800px;
   min-height: 100vh;
   margin: 0 auto;
-  background: #fff;
+  background: #f7f7f7;
 }
 .main .main-content {
   flex: 1;
