@@ -1,9 +1,7 @@
 # 找资源不完全指北
-> __Note__: 若有问题或好的方法欢迎进群反馈
+> 若有问题或好的方法欢迎进群反馈
 >>- 4.20 大改使排版合理、小白看得懂，同时换服务使访问更快 
 >>- 4.14 增加网址volmoe
-
-<iframe width="100%" οnlοad="this.height=iFrame1.document.body.scrollHeight" frameborder="0" src="st.html"></iframe>
 
  ## 提问之前
 *    贴吧 
@@ -63,3 +61,5 @@
 - [一个 epub 在线阅读器](https://epub.yunser.com)（不会上传至服务器）
 - [https://go2think.com/8-free-light-novel-websites/](https://go2think.com/8-free-light-novel-websites/) 
 - [https://m.weibo.cn/status/4483184631037390](https://m.weibo.cn/status/4483184631037390) （非专门轻小说网站）
+
+<script data-goatcounter="https://0inn.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
