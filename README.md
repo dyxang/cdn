@@ -1,13 +1,17 @@
 ## 指北信息
 ?> 若有问题或好的方法欢迎进群反馈
-<summary>更新情况（点击查看）</summary>
+
+<details><summary>更新情况（点击查看）</summary>
+
 >>- 5.21 没电脑看控制台，反正恢复了访问，在即将1000访问之际去掉了访问数统计
 >>- 4.20 大改使排版合理、小白看得懂，同时换服务使访问更快 
 >>- 4.14 增加网址volmoe
 
+</details>
 ## 提问之前
 *    贴吧 
 *   各大搜索引擎
+![7c959d6bd4ab4c7f.jpg](https://i.loli.net/2020/05/21/ymvka5IUTldLhGC.jpg)
 
 ## 众所周知
 *   [天使动漫](https://www.tsdm.live)
