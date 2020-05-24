@@ -63,7 +63,7 @@
 * 次元狗轻小说 [https://www.acgndog.com/category/qingxiaoshuo](https://www.acgndog.com/category/qingxiaoshuo)
 * acg 调查小分队 [https://acgsoso.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4/](https://acgsoso.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4/)
 * go2think 博客 [https://go2think.com/category/share/resource/](https://go2think.com/category/share/resource/)
-* 轻之国度 自行科学
+* 轻之国度 自行科学上网
 * 205 藏书馆，有索引字母或文库顺，需特殊方式打开 [http://205library.blogspot.com/](http://205library.blogspot.com/) 
 
 ## 其他补充
