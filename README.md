@@ -1,5 +1,5 @@
 ## 指北信息
-?> 若有问题或好的方法欢迎进群反馈
+?> 若有问题或好的方法欢迎进群反馈，下一次更新预计在七月，加入漫画/漫画小说互搜搜索方法。顺带感谢一下ID：退入知守
 
 <details><summary>更新情况（点击查看）</summary>
 
@@ -64,7 +64,7 @@
 * acg 调查小分队 [https://acgsoso.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4/](https://acgsoso.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4/)
 * go2think 博客 [https://go2think.com/category/share/resource/](https://go2think.com/category/share/resource/)
 * 轻之国度 自行科学上网
-* 205 藏书馆，有索引字母或文库顺，需特殊方式打开 [http://205library.blogspot.com/](http://205library.blogspot.com/) 
+* 205 藏书馆，有索引字母或文库，需特殊方式打开 [http://205library.blogspot.com/](http://205library.blogspot.com/) 
 
 ## 其他补充
 
