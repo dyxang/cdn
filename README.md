@@ -33,7 +33,7 @@
 
 ## 搜书引擎
 *   [鸠摩搜书](https://www.jiumodiary.com/)  
-*   [分布式网络搜书](https://i-book.in) 
+*   ~~[分布式网络搜书]~~(https://i-book.in) 已死
 *   [Epubee](http://cn.epubee.com/books/)  免费用仅凌晨下载三次，可以在线看
 *   [Web 轻小说](https://opds.now.sh/novel) | [说明页](https://gitlab.com/novel-group/txt-source)
 
