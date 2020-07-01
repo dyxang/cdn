@@ -67,6 +67,7 @@
 
 ## 其他补充
 
+- [一个动漫之家失效漫画镜像站（禁止公开分享）](https://copymanga.net)
 - [一个 epub 在线阅读器](https://epub.yunser.com)（不会上传至服务器）
 - [https://go2think.com/8-free-light-novel-websites/](https://go2think.com/8-free-light-novel-websites/) 
 - [https://m.weibo.cn/status/4483184631037390](https://m.weibo.cn/status/4483184631037390) （非专门轻小说网站）
