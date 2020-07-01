@@ -22,7 +22,7 @@
 
 ## 有客户端
 *   迷糊 部分功能需注册使用（平常不开放注册） [客户端下载](https://mhdm.top/) 
-*   动漫之家 找小说及漫画  [**不用下载app**的方法（禁止公开分享）](https://copymanga.net)｜(**下载 APP 后**不需要插旗的观看隐藏漫画办法：[办法一](https://dark-dmzj.hloli.net)[办法二](https://dmzj.zhanghd.tech) )  
+*   动漫之家 找小说及漫画 观看被删或隐藏漫画的方法： [** 不用下载APP **](https://copymanga.net)｜**下载 APP 后**：[办法一](https://dark-dmzj.hloli.net)[办法二](https://dmzj.zhanghd.tech)  
 *   [轻小说文库](https://wenku8.net) 需要注册  [ 临时网页](https://wap.wenku8.com) |[APP 下载 ](https://github.com/MewX/light-novel-library_Wenku8_Android/releases) 
 
 ## 其他网站
