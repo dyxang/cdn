@@ -1,0 +1,231 @@
+
+body:before {
+    content: close-quote;
+    width: 551px;
+    right: 10px;
+    top: 30px;
+    position: fixed;
+    background: center,url();
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+body {
+    background-image: url(https://api.ixiaowai.cn/mcapi/mcapi.php)!important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#ct {
+    opacity: 0.8;
+}
+
+#hd {
+    visibility: hidden;
+}
+
+#ct:hover {
+    opacity: 0.95;
+}
+
+#ct {
+    opacity: 0.85;
+    transition: opacity 0.5s;
+    border-radius: 7px;
+    box-shadow: 0px 0px 20px 6px rgba(0,0,0,0.12),0px 0px 20px 6px rgba(0,0,0,0.12);
+}
+
+#ft {
+    visibility: hidden;
+}
+
+#pprl li {
+    padding: 3px 0 3px 0!important;
+}
+
+#pprl {
+    height: 120px;
+padding-bottom:0!important;
+}
+.block .dxb_bc{
+padding-bottom:0!important;
+}
+
+#pprl em {
+    display: none;
+}
+
+#pprl a {
+    font-size: 26px
+}
+
+.hm img {
+    border-radius: 50%;
+    margin-top: -110px;
+    box-shadow: 0px 0px 10px 6px rgba(0,0,0,0.12);
+    padding: 2px;
+    background: #FFF;
+    border: 1px solid;
+    border-color: #F2F2F2 #CDCDCD #CDCDCD #F2F2F2;
+}
+
+div#frame1_left {
+    overflow: visible;
+}
+
+.hm .mbn a {
+    visibility: hidden;
+}
+
+#profile .blocktitle span {
+    display: none;
+}
+
+#scrolltop {
+    display: none!important;
+}
+
+#toptb {
+    display: none!important;
+}
+
+.ct2 .sd {
+    overflow: visible;
+}
+
+.xs2 {
+    visibility: hidden;
+}
+
+#pprl:before {
+    content: close-quote;
+    width: 235px;
+    height: 70px;
+    display: block;
+    margin-left: -10px;
+    background-image: url(https://cdn.jsdelivr.net/gh/dyxang/cdn/assets/media/hugo.svg);
+}
+.ul_list {
+display: none;
+}
+#pprl li:nth-child(1) {
+width: 210px;
+color: #333;
+text-align: center;
+margin-top: -105px;
+font-size:24px;
+text-shadow: 1px 1px 20px rgba(33,33,33,0.3), 1px 1px 5px rgba(33,33,33,0.1);
+}
+#pprl li:nth-child(3){
+margin-top:55px;
+}
+
+#pprl li:nth-child(2) {
+    display: none
+}
+html{
+overflow: hidden;
+}
+body{
+overflow: scroll;
+height: 100vh;
+overflow-x:hidden;
+}
+::-webkit-scrollbar {
+width: 12px;
+background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+border-radius:12px;
+background-color: rgba(0, 0, 0, 0.2);
+width
+transition: all 0.3s;
+}
+::-webkit-scrollbar-thumb:hover {
+background-color: rgba(0, 0, 0, 0.4);
+}
+::-webkit-scrollbar-thumb:active {
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+.gol{
+display:none;
+}
+#thread_content li a{
+transition:margin 0.3s;
+}
+#thread_content li a:hover {
+margin-left: 3px;
+text-decoration: none;
+}
+.mls img{
+border-radius:50%;
+}
+.hm img{
+transition:transform 0.5s;
+}
+.hm img:hover{
+transform:rotate(360deg);
+}
+.mls img{
+transition:transform 0.5s;
+}
+.mls img:hover{
+transform:rotate(-360deg);
+}
+#thread_content .xl li {
+width: 50%;
+}
+
+#thread_content .xl {
+display: flex;
+flex-wrap: wrap;
+}
+#friend_content .ml {
+display: flex;
+justify-content: center;
+}
+
+#friend_content {
+padding: 0;
+}
+#personalinfo_content p{
+display:none;
+}
+#thread_content .xl{
+display:flex;
+flex-wrap:wrap;
+}
+#thread_content .xl li{
+width:50%;
+}
+html{
+    overflow: hidden;
+}
+body{
+    overflow: scroll;
+    height: 100vh;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  border-radius:12px;
+  background-color: rgba(0, 0, 0, 0.2);
+  width
+  transition: all 0.3s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.gol{
+    display:none;
+}
