@@ -74,7 +74,9 @@
     line-height           : 1.5;
     overflow-wrap         : break-word;
     word-wrap             : break-word;
-    hyphens               : auto
+    hyphens               : auto;
+    -ms-hyphens           : auto;
+    -webkit-hyphens       : auto
 }
 
 .heti::before,
