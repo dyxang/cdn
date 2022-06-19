@@ -126,6 +126,20 @@
   margin-block-end: 0 !important;
 }
 
+@media (prefers-color-scheme: dark) {
+  .heti blockquote {
+    margin-block-start  : 12px;
+    margin-block-end    : 12px;
+    margin-inline-start : 32px;
+    margin-inline-end   : 32px;
+    padding-block-start : 12px;
+    padding-block-end   : 12px;
+    padding-inline-start: 16px;
+    padding-inline-end  : 16px;
+    background-color    : rgba(255, 255, 255, 0.054);
+  }
+}
+
 .heti blockquote {
   margin-block-start  : 12px;
   margin-block-end    : 12px;
@@ -166,19 +180,6 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  .heti blockquote {
-    margin-block-start  : 12px;
-    margin-block-end    : 12px;
-    margin-inline-start : 32px;
-    margin-inline-end   : 32px;
-    padding-block-start : 12px;
-    padding-block-end   : 12px;
-    padding-inline-start: 16px;
-    padding-inline-end  : 16px;
-    background-color    : rgba(255, 255, 255, 0.054);
-  }
-}
 
 .heti figure {
   display   : block;
